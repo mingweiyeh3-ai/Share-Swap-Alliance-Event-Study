@@ -85,4 +85,4 @@ openpyxl
 
 ## Notes
 
-- AR and SAR for all firms were computed by TEJ. `01_ols_demo.ipynb` replicates the methodology for a single firm to verify consistency.
+- AR and SAR for all firms were exported by TEJ. `01_ols_demo.ipynb` demonstrates the underlying market model calculation using Foxconn as an example.
