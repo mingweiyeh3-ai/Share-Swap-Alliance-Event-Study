@@ -1,6 +1,6 @@
 # Share Swap Alliance Event Study
 
-This repository replicates the empirical analysis from:
+This repository contains the empirical analysis conducted for:
 
 > Yeh et al. (2026). *Share Swap-Based Strategic Alliances and Market Reaction: Evidence from Taiwan*. National Taipei University.
 
